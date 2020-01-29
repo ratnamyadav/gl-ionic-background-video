@@ -1,0 +1,15 @@
+{
+  "namespace": "GlBackgroundVideo",
+  "fsNamespace": "gl-background-video",
+  "loader": "../gl-background-video.js",
+  "core": "gl-background-video.mostxllz.js",
+  "corePolyfilled": "gl-background-video.q0xkbwtj.js",
+  "components": {
+    "gl-background-video": {
+      "bundleIds": {
+        "$": "db2ovpql"
+      },
+      "encapsulation": "shadow"
+    }
+  }
+}
